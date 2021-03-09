@@ -7,15 +7,11 @@ a,h1,p,body,div,img,ul{
    float:left;
 }
 #header{
-   border: 1px solid red;
    height: 80px;
    margin: 0 auto;
    line-height: 50px;
    background-color: #FFDEE9;
    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
-
-
-
 }
 .title{
    display: flex;
