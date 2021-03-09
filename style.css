@@ -24,6 +24,7 @@ a,h1,p,body,div,img,ul{
    margin: 0 auto;
 }
 li{
+   font-weight: 600;
    list-style: none;
    text-align: center;
    height: 50px;
@@ -34,12 +35,12 @@ li{
 }
 
 a{
+   color:rgb(243, 87, 87);
    width: 100px;
    font-size: 25px;
-   color: rgb(66, 66, 61);
    text-decoration: none;
    display:inline-block;
 }
 a:hover{
-   color: rgb(139, 138, 130);
+   color: rgb(112, 228, 243);
 }
