@@ -1,3 +1,21 @@
-h1{
-   color: aqua; 
+a,h1,p,body,div{
+   margin:0;
+   padding: 0;
+}
+#LOGO{
+   display: inline-block;
+}
+#header{
+   border: 1px solid red;
+   width:max-content;
+   margin: 0 auto;
+}
+a{
+   font-size: 25px;
+   color: rgb(66, 66, 61);
+   text-decoration: none;
+   display:inline-block;
+}
+a:hover{
+   color: rgb(139, 138, 130);
 }
